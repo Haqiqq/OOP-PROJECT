@@ -109,4 +109,7 @@ CREATE TABLE login_history (
 );
 
 YOUR CODE IS NOW GOOD TO GO!
+
+Finally, the mp4 videos within the files are there for you to see how the project unfolds. Named as Admin, Patient and Doctor for the respective dashboards present.
+Thankyou!
  
